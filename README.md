@@ -7,6 +7,8 @@ This app enables authorised users to view todos, create, update and delete todos
 ## Alternative one
 Use the doployment link provided below to access the app:
 
+        https://nimble-jelly-1035f2.netlify.app/
+
 ## Alternative two
 Open the terminal on your computer and fork and clone the repository from github:
 
