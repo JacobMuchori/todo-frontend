@@ -38,6 +38,9 @@ export default function Dash() {
 
     return (
         <div>
+          <nav>
+            <Link href="/create">Create a todo</Link>
+          </nav>
             {todos.map((todo) => 
             <div key={todo.id}>
                 <h1>{todo.title}</h1>
